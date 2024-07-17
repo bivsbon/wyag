@@ -1,0 +1,4 @@
+#!/user/bin/python3 
+
+import libwyag
+libwyag.main()
